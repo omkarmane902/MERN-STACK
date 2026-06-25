@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "name": "Omkar",
+  "age": 22,
+  "course": "JavaScript",
+  "skills": ["HTML", "CSS", "JavaScript"],
+  "address": {
+    "city": "Kolhapur",
+    "state": "Maharashtra"
+  }
+}
+
+
+
