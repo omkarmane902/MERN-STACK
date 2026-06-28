@@ -1,0 +1,10 @@
+Task 1: User Profile Cards ⭐ (Easy)
+API
+https://randomuser.me/api/?results=10
+Task
+Display 10 user cards.
+Show:
+Profile Image    picture.thumbnail
+Full Name        id.name
+Email            email
+Country          location.country
