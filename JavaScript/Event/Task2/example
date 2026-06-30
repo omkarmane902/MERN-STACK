@@ -1,0 +1,9 @@
+Task 2: Change Background Color
+Create a button.
+Every click should change the page background to a random color.
+
+Example:
+
+Click 1 → Red
+Click 2 → Blue
+Click 3 → Green
