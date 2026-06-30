@@ -1,0 +1,8 @@
+Beginner Level
+Task 1: Button Click
+Create a button.
+
+When clicked, display:
+
+Welcome to JavaScript!
+Also change the button text to Clicked.
