@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "name": "Omkar Mane",
+    "schoolName": "New Model English School"
+  },
+  {
+    "id": 2,
+    "name": "Rahul Patil",
+    "schoolName": "Shivaji High School"
+  },
+  {
+    "id": 3,
+    "name": "Akash Shinde",
+    "schoolName": "Vidya Mandir High School"
+  },
+  {
+    "id": 4,
+    "name": "Sagar Jadhav",
+    "schoolName": "New Horizon Public School"
+  },
+  {
+    "id": 5,
+    "name": "Pratik Pawar",
+    "schoolName": "Modern High School"
+  },
+  {
+    "id": 6,
+    "name": "Sneha Patil",
+    "schoolName": "St. Mary's School"
+  },
+  {
+    "id": 7,
+    "name": "Pooja Shinde",
+    "schoolName": "Saraswati Vidyalaya"
+  },
+  {
+    "id": 8,
+    "name": "Rohit Jadhav",
+    "schoolName": "Shahu High School"
+  },
+  {
+    "id": 9,
+    "name": "Amit Deshmukh",
+    "schoolName": "Rajarshi Shahu School"
+  },
+  {
+    "id": 10,
+    "name": "Neha Kulkarni",
+    "schoolName": "Maharashtra Public School"
+  },
+  {
+    "id": 11,
+    "name": "Vivek Joshi",
+    "schoolName": "Dnyan Prabodhini School"
+  },
+  {
+    "id": 12,
+    "name": "Priya More",
+    "schoolName": "Sanjeevan Vidyalaya"
+  },
+  {
+    "id": 13,
+    "name": "Kunal Bhosale",
+    "schoolName": "Shivneri High School"
+  },
+  {
+    "id": 14,
+    "name": "Anjali Kadam",
+    "schoolName": "Saraswati English Medium School"
+  },
+  {
+    "id": 15,
+    "name": "Nikhil Sawant",
+    "schoolName": "Kolhapur Public School"
+  },
+  {
+    "id": 16,
+    "name": "Riya Chavan",
+    "schoolName": "Bright Future School"
+  },
+  {
+    "id": 17,
+    "name": "Ganesh More",
+    "schoolName": "Shivaji Vidyamandir"
+  },
+  {
+    "id": 18,
+    "name": "Snehal Pawar",
+    "schoolName": "New Era High School"
+  },
+  {
+    "id": 19,
+    "name": "Yash Patil",
+    "schoolName": "Mahatma Gandhi School"
+  }
+]
